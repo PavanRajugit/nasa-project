@@ -4,8 +4,6 @@
 
 NASA Explorer is a full-stack web app that brings stunning space data from NASA to your screen — including the Astronomy Picture of the Day (APOD), Mars Rover photos, Near-Earth Objects (NEOs), and custom NASA image search.
 
-![screenshot](./screenshot.png)
-
 ---
 
 ## 🧠 Features
@@ -141,10 +139,6 @@ The frontend should open on `http://localhost:3000` and fetch data from backend 
 
 ## 🧪 Sample `.env`
 
-```env
-NASA_API_KEY=7ByFF2TiWhEe77sg43pkR8kfbkFF7tttfOh01wRk
-PORT=5501
-```
 
 ---
 
