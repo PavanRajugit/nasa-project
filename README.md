@@ -117,10 +117,7 @@ npm install
 
 Create a `.env` file:
 
-```env
-NASA_API_KEY=YOUR_NASA_KEY_HERE
-PORT=5501
-```
+
 
 Run the server:
 
